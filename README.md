@@ -1,2 +1,2 @@
-# GitHub-Actions
-GitHub Actions is a CI/CD (Continuous Integration/Continuous Deployment) platform that enables developers to automate their software development workflows.
+
+![image](https://user-images.githubusercontent.com/99068989/216752842-95a61075-63d1-4fcb-b75e-69d8ab07145c.png)
